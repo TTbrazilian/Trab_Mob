@@ -1,0 +1,23 @@
+name: minhas_viagens
+description: Projeto Flutter Minhas Viagens
+
+environment:
+  sdk: '^3.5.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_map: ^6.1.0
+  geolocator: ^11.0.0
+  geocoding: ^2.2.0
+  http: ^1.2.1
+  latlong2: ^0.9.0
+  url_launcher: ^6.2.6
+  share_plus: ^7.2.1
+
+
+
+flutter:
+  assets:
+    - imagens/icon.png
+    
